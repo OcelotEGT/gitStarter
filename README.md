@@ -3,6 +3,8 @@ Mi proyecto experimental con Git. Sólo sirvó para aprender a usar Git y GitHub
 
 Git bashCode:
 
+~ git config --global -user.name "<name>"     #Cambia el nombre del Usuario Global de Git.
+~ git config --global -user.email "<email>"   #Cambia el email del Usuario Glboal de Git.
 ~ git init                            #Inicializa un repositorio en el directorio local.
 ~ git status                          #Revisa el estado de de los archivos (Working Directory, Staging Area y Repository).
 ~ git add <file>/./*                  #Adiere los archivos y sus modificaciones al Staging Area.
